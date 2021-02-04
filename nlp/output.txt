@@ -1,0 +1,10 @@
+My Name Name is Pravalik in Wipro.
+{Wipro=1, Pravalik=1, in=1, is=1, My=1, .=1, Name=2}
+My Name is Reddy.
+{Reddy=1, is=1, My=1, .=1, Name=1}
+Chest pain is Chest pain.
+{Chest=2, pain=2, is=1, .=1}
+Pravalik is a good boy.
+{a=1, Pravalik=1, is=1, good=1, boy=1, .=1}
+Wipro is a company Name.
+{Wipro=1, a=1, is=1, company=1, .=1, Name=1}

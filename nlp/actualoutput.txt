@@ -1,0 +1,20 @@
+My Name Name is Pravalik in Wipro.
+{Wipro=1, Chest=0, Pravalik=1, Television=0, Bag=0, Name=2, Fridge=0}
+{Wipro=0.14285715, Chest=0.0, Pravalik=0.14285715, Television=0.0, Bag=0.0, Name=0.2857143, Fridge=0.0}
+{Wipro=1, Chest=0, Pravalik=1, Television=0, Bag=0, Name=1, Fridge=0}
+My Name is Reddy.
+{Wipro=0, Chest=0, Pravalik=0, Television=0, Bag=0, Name=1, Fridge=0}
+{Wipro=0.0, Chest=0.0, Pravalik=0.0, Television=0.0, Bag=0.0, Name=0.25, Fridge=0.0}
+{Wipro=1, Chest=0, Pravalik=1, Television=0, Bag=0, Name=2, Fridge=0}
+Chest pain is Chest pain.
+{Wipro=0, Chest=2, Pravalik=0, Television=0, Bag=0, Name=0, Fridge=0}
+{Wipro=0.0, Chest=0.4, Pravalik=0.0, Television=0.0, Bag=0.0, Name=0.0, Fridge=0.0}
+{Wipro=1, Chest=1, Pravalik=1, Television=0, Bag=0, Name=2, Fridge=0}
+Pravalik is a good boy.
+{Wipro=0, Chest=0, Pravalik=1, Television=0, Bag=0, Name=0, Fridge=0}
+{Wipro=0.0, Chest=0.0, Pravalik=0.2, Television=0.0, Bag=0.0, Name=0.0, Fridge=0.0}
+{Wipro=1, Chest=1, Pravalik=2, Television=0, Bag=0, Name=2, Fridge=0}
+Wipro is a company Name.
+{Wipro=1, Chest=0, Pravalik=0, Television=0, Bag=0, Name=1, Fridge=0}
+{Wipro=0.2, Chest=0.0, Pravalik=0.0, Television=0.0, Bag=0.0, Name=0.2, Fridge=0.0}
+{Wipro=2, Chest=1, Pravalik=2, Television=0, Bag=0, Name=3, Fridge=0}

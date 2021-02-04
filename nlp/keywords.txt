@@ -1,0 +1,42 @@
+Nausea
+Vomiting
+Diarrhea
+Chest pain
+cyst
+Ovarian cyst
+Trauma
+Kidney
+abdominal pain
+Abdominal pain, exacerbating after caffeine consumption
+Abdominal pain, sharp and stabbing
+Abdominal pain, epigastric
+Abdominal tenderness, right upper quadrant
+Abdominal pain, exacerbating on an empty stomach
+Abdominal pain, worsening when coughing or moving
+Abdominal pain, right upper quadrant
+Abdominal pain, right lower quadrant
+Abdominal pain, widespread
+Abdominal pain, left upper quadrant
+Abdominal pain, worsening after eating
+Abdominal pain, mild
+Abdominal pain, moderate
+Abdominal pain, burning or gnawing
+Abdominal pain, lasting less than two days
+Abdominal pain, lasting more than two weeks
+Abdominal pain, sudden onset
+Abdominal pain, gradual onset
+Abdominal pain, radiating to left shoulder or shoulder blade
+Abdominal pain, radiating to lower or middle part of back
+Abdominal pain, recurrent
+Abdominal pain, characterized by sudden onset and cessation
+Abdominal pain, moving or shifting
+Abdominal pain, lasting 2 to 7 days
+Abdominal pain, lasting 8 to 14 days
+Abdominal pain, left side
+Abdominal pain, right side
+Abdominal pain, crampy
+Abdominal pain, unbearable
+Abdominal pain, spreading to right shoulder or shoulder blade
+Abdominal pain, decreases after bowel movement or passing gas
+Abdominal pain, severe
+Abdominal pain, exacerbating during deep breath
